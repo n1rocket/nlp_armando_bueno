@@ -1,0 +1,21 @@
+gensim
+ipykernel
+ipython
+jellyfish
+lxml  # Si falla, sudo apt-get install python3-lxml
+keras
+matplotlib
+nltk
+num2words
+numpy
+pandas
+plotly_express
+pyDAWG
+pyLDAvis
+scikit-learn
+scipy
+sklearn_crfsuite
+stop_words
+tensorflow
+tqdm
+wordcloud
