@@ -1,2 +1,5 @@
 .DS_Store
 .vscode/settings.json
+project/Video_Games.json
+project/w2v_model_fast.pkl.wv.vectors_ngrams.npy
+project/words.csv
